@@ -15,7 +15,7 @@ Jinja2==2.9.6
 MarkupSafe==1.0
 multidict==3.0.0
 prometheus-client==0.0.19
-pycares==2.1.1
+pycares==4.2.0
 requests==2.18.1
 six==1.10.0
 tornado==4.5.1
